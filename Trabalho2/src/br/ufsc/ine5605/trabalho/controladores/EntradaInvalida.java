@@ -10,7 +10,7 @@ package br.ufsc.ine5605.trabalho.controladores;
  * @author usuario
  */
 public class EntradaInvalida extends Exception {
-
+// LUCAS CRACUDO
     public EntradaInvalida(String message) {
         super(message);
     }
